@@ -29,7 +29,7 @@ from seraph import maybe, here, watch, now, managed
 ### From source (recommended for now)
 
 ```bash
-git clone https://github.com/yourname/seraph.git
+git clone https://github.com/mtk33900/seraph.git
 cd seraph
 pip install -e .
 ```
